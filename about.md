@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to Jacob and Rina's protein bar blog! Here we give reviews on protein bars we've tried, our ratings, and our recommendations!
 
-### More Information
+### Contact us for Protein Bar suggestions!
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[jacobpan1855@gmail.com](mailto:jacobpan1855@gmail.com)
