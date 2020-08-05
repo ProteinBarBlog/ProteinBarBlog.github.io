@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crunchy Peanut Butter
+title: Crunchy Peanut Butter Wow!
 ---
 
 First Protein Bar post! This one had a bunch of crunch in it and was a pretty nice blend with the peanut butter.
