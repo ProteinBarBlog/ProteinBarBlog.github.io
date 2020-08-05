@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CLIF Bar: Crunchy Peanut Butter
+title: Crunchy Peanut Butter
 ---
 
 First Protein Bar post! This one had a bunch of crunch in it and was a pretty nice blend with the peanut butter.
