@@ -14,4 +14,4 @@ Overall a very op bar!
 
 ## Overall rating: 9.45/10
 
-![nugodarkchocolatechocolate](../images/bars/nugodarkchocolatechocolate.jpg "NUGO Dark Chocolate Chocolate Chip Bar")
+![nugo dark chocolate chocolate chip](../images/bars/nugodarkchocolatechocolate.jpg "NUGO Dark Chocolate Chocolate Chip Bar")
