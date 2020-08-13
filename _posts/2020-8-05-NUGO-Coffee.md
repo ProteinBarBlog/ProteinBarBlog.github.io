@@ -12,6 +12,6 @@ Overall a very op bar!
 ### Taste: 11/10
 ### Texture: 9/10
 
-## Overall rating: 9.45/10
+## Overall rating: 8.45/10
 
 ![nugo coffee](../images/bars/nugocoffee.jpg "NUGO Coffee Bar")
