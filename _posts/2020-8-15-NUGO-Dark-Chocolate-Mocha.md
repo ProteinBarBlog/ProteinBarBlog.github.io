@@ -13,6 +13,6 @@ This one is my all-time favorite. The crunch factor was simply immaculate, a com
 ### Taste: 11/10
 ### Texture: 10/10
 
-## Overall rating: 100/10
+## Overall rating: 11/10
 
 ![nugo dark chocolate mocha](../images/bars/nugodarkmocha.jpg "NUGO Dark Mocha Chocolate Bar")
