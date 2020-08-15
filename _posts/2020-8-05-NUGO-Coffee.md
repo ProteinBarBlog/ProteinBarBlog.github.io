@@ -3,7 +3,8 @@ layout: post
 title: NUGO Coffee Protein bar
 ---
 
-By: Rina (lmpo)
+Rating & Review by: Rina (lmpo)  
+
 Rina's Darn Tootin' First Protein Bar Post! This one thoroughly slapped. The crunch was impeccable, just like in all other Nugo bars. However, the coffee flavor was gr9. It was epic.
 Overall a very op bar!
 
