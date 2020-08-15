@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NUGO Dark Chocolate Chocolate Chip Protein Bar
+title: NUGO Dark Chocolate Chip Protein Bar
 ---
 
 Rating & Review by: Rina  
@@ -16,4 +16,4 @@ Overall a very op bar!
 
 ## Overall rating: 9.45/10
 
-![nugo dark chocolate chocolate chip](../images/bars/nugodarkchocolatechocolate.JPG "NUGO Dark Chocolate Chocolate Chip Bar")
+![nugo dark chocolate chip](../images/bars/nugodarkchocolatechocolate.JPG "NUGO Dark Chocolate Chip Bar")
