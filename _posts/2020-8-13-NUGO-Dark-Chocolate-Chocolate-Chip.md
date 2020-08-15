@@ -3,7 +3,8 @@ layout: post
 title: NUGO Dark Chocolate Chocolate Chip Protein bar
 ---
 
-Rating & Review by: Rina
+Rating & Review by: Rina  
+
 This one was absolutely epic. The crunch factor was simply immaculate, just like in all other Nugo Dark chocolate bars. The dark chocolate coating was beautiful. In the wise words of Jacob Pan, this bar had a "nice blend of chocolate chips and just general protein bar-ness." In my humble opinion, the only thing missing was the coffee flavor(lmpo).
 Overall a very op bar!
 
