@@ -15,4 +15,4 @@ This one is my all-time favorite. The crunch factor was simply immaculate, a com
 
 ## Overall rating: 100/10
 
-![nugo dark chocolate mocha](../images/bars/nugodarkmocha.JPG "NUGO Dark Mocha Chocolate Bar")
+![nugo dark chocolate mocha](../images/bars/nugodarkmocha.jpg "NUGO Dark Mocha Chocolate Bar")
