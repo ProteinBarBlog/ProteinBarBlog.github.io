@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NUGO Coffee Protein bar
+title: NUGO Coffee Protein Bar
 ---
 
 Rating & Review by: Rina (lmpo)  

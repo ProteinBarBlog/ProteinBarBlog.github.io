@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NUGO Dark Chocolate Chocolate Chip Protein bar
+title: NUGO Dark Chocolate Chocolate Chip Protein Bar
 ---
 
 Rating & Review by: Rina  
